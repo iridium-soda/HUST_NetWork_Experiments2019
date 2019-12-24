@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/stop_wait.dir/src/GBN.cpp.o CMakeFiles/stop_wait.dir/src/GBNRdtReceiver.cpp.o CMakeFiles/stop_wait.dir/src/GBNRdtSender.cpp.o  -o ../bin/stop_wait ../lib/libnetsim.a 
