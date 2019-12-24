@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/stop_wait.dir/src/TCP.cpp.o CMakeFiles/stop_wait.dir/src/TCPRdtReceiver.cpp.o CMakeFiles/stop_wait.dir/src/TCPRdtSender.cpp.o  -o ../bin/stop_wait ../lib/libnetsim.a 
